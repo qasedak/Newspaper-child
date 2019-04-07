@@ -1,0 +1,26 @@
+/* tagdiv newspaper RTL theme style By Mohammad Anbarestany */
+
+.top-bar-style-1 .td-header-sp-top-widget {
+	float: left !important;
+}
+.td-header-row [class*="td-header-sp"] {
+	float: right;
+}
+.td_data_time {
+	margin: 0 0 0 32px;
+}
+.td-header-sp-top-menu .td_ul_logout {
+	margin: 0 0 0 16px;
+}
+.top-header-menu .avatar {
+	margin-left: 6px;
+	margin-right:inherit;
+}
+.top-header-menu li a {
+	margin-left: 16px;
+	margin-right: inherit;
+}
+.top-header-menu .td-icon-logout {
+	margin-left: 2px;
+	margin-right: inherit;
+}
