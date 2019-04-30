@@ -108,3 +108,55 @@
 .td-big-grid-post .td-module-meta-info {
     margin: 11px 20px 20px 0;
 }
+.td_block_template_1 .block-title {
+    text-align: right;
+}
+.td-subcat-filter {
+	right: inherit;
+    left: 0;
+    text-align: left;
+}
+.td-subcat-filter .td-subcat-list .td-subcat-item {
+	margin-right: 30px;
+	margin-left: inherit;
+}
+.td-subcat-filter .td-subcat-dropdown .td-subcat-more::before {
+	left: 0;
+	right: inherit;
+}
+.td-subcat-filter .td-subcat-dropdown {
+    text-align: left;
+}
+.td-subcat-filter .td-subcat-dropdown .td-subcat-more {
+	margin-right: 15px;
+	margin-left: inherit;
+	padding-right: 15px;
+	padding-left: inherit;
+}
+.td-subcat-filter .td-subcat-dropdown ul {
+	left: 0;
+	right: inherit;
+}
+.td-subcat-filter .td-subcat-dropdown a {
+    padding-left: 15px;
+    padding-right: 21px;
+}
+.td_module_6 .item-details {
+	margin-right: 116px;
+	margin-left: inherit;
+}
+.td_module_6 .td-module-thumb {
+    right: 0;
+	left: inherit;
+}
+.td-block-row [class*="td-block-span"] {
+    float: right;
+}
+.td-module-comments {
+    float: left;
+}
+.td-module-comments a::after {
+	right: 0;
+	left: inherit;
+    border-width: 3px 0 0 3px;
+}
