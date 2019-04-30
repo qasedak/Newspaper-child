@@ -160,3 +160,26 @@
 	left: inherit;
     border-width: 3px 0 0 3px;
 }
+.td_social_type .td_social_button {
+    float: left;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+.td_social_type .td_social_info {
+    padding: 0 9px 0 0;
+}
+.td-social-style4 .td-sp {
+	margin-right: inherit;
+	margin-left: 5px;
+}
+.td_module_10 .td-module-thumb {
+	right: 0;
+	left: inherit;
+}
+.td_module_10 .item-details {
+	margin-right: 244px;
+	margin-left: inherit;
+}
+.td_ajax_load_more i {
+	margin-right: 6px;
+	margin-left: inherit;
+}
