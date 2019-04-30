@@ -1,4 +1,7 @@
-/* tagdiv newspaper RTL theme style By Mohammad Anbarestany */
+/* tagdiv newspaper RTL theme style By Mohammad Anbarestany (MACSE)
+   www.Skilledup.ir
+   m_anbarestany@hotmail.com
+*/
 
 .top-bar-style-1 .td-header-sp-top-widget {
 	float: left !important;
@@ -23,4 +26,85 @@
 .top-header-menu .td-icon-logout {
 	margin-left: 2px;
 	margin-right: inherit;
+}
+.header-search-wrap {
+	right: inherit !important;
+	left:0;
+}
+.td-header-main-menu {
+	padding-left: 48px;
+	padding-right: inherit;
+}
+.sf-menu a.sf-with-ul {
+	padding-left: 31px;
+	padding-right: 14px;
+}
+.td-header-wrap .td-drop-down-search::before {
+	left: 19px;
+	right: inherit;
+}
+.td-header-wrap .td-drop-down-search {
+	left: 0;
+	right: inherit;
+}
+.td-header-wrap .td-drop-down-search .btn {
+	left: 20px;
+	right: inherit;
+}
+.td-header-wrap #td-header-search {
+	border-left: 0;
+	border-right: 1px solid;
+}
+.sf-menu .td-icon-menu-down {
+	padding-right: 7px;
+	padding-left: 0;
+}
+.td-header-wrap .td-aj-search-results .td-module-thumb {
+	margin-right: 20px;
+	margin-left: inherit;
+}
+.td-header-wrap .td-aj-search-results .item-details {
+    margin: 10px 115px 10px 20px;
+}
+.td-mega-span {
+    float: right;
+	margin-right: 22px;
+	margin-left: inherit;
+}
+.td-mega-menu .td_block_mega_menu .td-next-prev-wrap {
+    margin: 0 22px 22px 0;
+}
+/* CSS trick to avoid changing php codes */
+.td-icon-menu-right::before {
+    content: '\e80c';
+}
+.td-icon-menu-left::before {
+    content: '\e80d';
+}
+/* end trick */
+.sf-menu > li.td-normal-menu > ul.sub-menu {
+	right: -15px;
+	left: inherit;
+}
+.td-trending-now-wrapper .td-next-prev-wrap {
+	left: 42px;
+	right: inherit;
+}
+.td-next-prev-wrap a {
+	margin-right: inherit;
+	margin-left: 7px;
+	
+}
+.td-trending-now-post{
+	padding-right: 15px;
+	padding-left: 119px;
+}
+.td-grid-style-1 .td-medium-thumb .td-big-grid-meta {
+    margin: 20px 19px 14px 0;
+}
+.td-grid-style-1 .td-big-thumb .td-big-grid-meta {
+    margin: 0 20px 0 0;
+}
+.td-big-grid-post .td-module-meta-info {
+    margin: 11px 20px 20px 0;
 }
