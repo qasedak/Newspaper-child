@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newspaper\n"
+"POT-Creation-Date: 2016-06-01 11:04+0330\n"
+"PO-Revision-Date: 2019-05-01 19:42+0430\n"
+"Last-Translator: Mohammad Anbarestany <m_anbarestany@hotmail.com>\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/wp_booster/external\n"
+"X-Poedit-SearchPathExcluded-1: ../includes/td_theme_init.php\n"
+"X-Poedit-SearchPathExcluded-2: ../includes/wp_booster/td_wp_booster_init."
+"php\n"
+
+#: ../includes/td_config.php:5066
+msgid "Limit post number:"
+msgstr "تعداد مطالب:"
+
+#: ../includes/wp_booster/td_login.php:105
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "یک درخواست برای تنظیم مجدد گذرواژه این حساب کاربری رسال شده است:"
+
+#: ../includes/wp_booster/td_login.php:107
+#, php-format
+msgid "Username: %s"
+msgstr "نام کاربری : %s"
+
+#: ../includes/wp_booster/td_login.php:108
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"اگر این ایمیل به اشتباه برای شما ارسال شده لطفا آن را نادیده بگیرید، هیچ "
+"اتفاقی نخواهد افتاد."
+
+#: ../includes/wp_booster/td_login.php:109
+msgid "To reset your password, visit the following address:"
+msgstr "برای بازیابی رمز عبور خود، این آدرس را مشاهده کنید:"
+
+#: ../includes/wp_booster/td_login.php:119
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] بازیابی رمز عبور"
+
+#: ../includes/wp_booster/td_login.php:125
+msgid "The e-mail could not be sent."
+msgstr "ایمیل نمی تواند ارسال شود."
+
+#: ../includes/wp_booster/td_login.php:125
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "دلیل ممکن: هاست شما تابع میل را غیرفعال کرده است."
+
+#: ../includes/wp_booster/td_translate.php:22
+msgid "View all results"
+msgstr "مشاهده تمام نتایج"
+
+#: ../includes/wp_booster/td_translate.php:23
+msgid "No results"
+msgstr "نتیجه ای نداشت"
+
+#: ../includes/wp_booster/td_translate.php:25
+msgid "Home"
+msgstr "خانه"
+
+#: ../includes/wp_booster/td_translate.php:28
+msgid "CLOSE"
+msgstr "بستن"
+
+#: ../includes/wp_booster/td_translate.php:31
+msgid "Page"
+msgstr "صفحه"
+
+#: ../includes/wp_booster/td_translate.php:35
+msgid "All"
+msgstr "همه\t"
+
+#: ../includes/wp_booster/td_translate.php:36
+msgid "By"
+msgstr "از"
+
+#: ../includes/wp_booster/td_translate.php:37
+msgid "Load more"
+msgstr "بارگزاری مطالب بیشتر"
+
+#: ../includes/wp_booster/td_translate.php:40
+msgid "View all posts in"
+msgstr "مشاهده تمام مطالب در"
+
+#: ../includes/wp_booster/td_translate.php:41
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: ../includes/wp_booster/td_translate.php:44
+msgid "Previous article"
+msgstr "مطالب قبلی"
+
+#: ../includes/wp_booster/td_translate.php:45
+msgid "Next article"
+msgstr "مطالب بعدی"
+
+#: ../includes/wp_booster/td_translate.php:46
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: ../includes/wp_booster/td_translate.php:47
+msgid "Author"
+msgstr "نویسنده"
+
+#: ../includes/wp_booster/td_translate.php:48
+msgid "RELATED ARTICLES"
+msgstr "مطالب مرتبط"
+
+#: ../includes/wp_booster/td_translate.php:49
+msgid "MORE FROM AUTHOR"
+msgstr "مطالب بیشتر از این نویسنده"
+
+#: ../includes/wp_booster/td_translate.php:50
+msgid "VIA"
+msgstr "توسط"
+
+#: ../includes/wp_booster/td_translate.php:51
+msgid "SOURCE"
+msgstr "منبع"
+
+#: ../includes/wp_booster/td_translate.php:52
+msgid "TAGS"
+msgstr "برچسب ها"
+
+#: ../includes/wp_booster/td_translate.php:53
+msgid "SHARE"
+msgstr "اشتراک گذاری"
+
+#: ../includes/wp_booster/td_translate.php:54
+msgid "Continue"
+msgstr "ادامه"
+
+#: ../includes/wp_booster/td_translate.php:55
+msgid "Read more"
+msgstr "ادامه مطلب ..."
+
+#: ../includes/wp_booster/td_translate.php:60
+msgid "Name:"
+msgstr "نام:"
+
+#: ../includes/wp_booster/td_translate.php:61
+msgid "Email:"
+msgstr "ایمیل: "
+
+#: ../includes/wp_booster/td_translate.php:62
+msgid "Website:"
+msgstr "وب سایت:"
+
+#: ../includes/wp_booster/td_translate.php:63
+msgid "Comment:"
+msgstr "دیدگاه :"
+
+#: ../includes/wp_booster/td_translate.php:64
+msgid "LEAVE A REPLY"
+msgstr "دیدگاهتان را بنویسید"
+
+#: ../includes/wp_booster/td_translate.php:65
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: ../includes/wp_booster/td_translate.php:66
+msgid "Cancel reply"
+msgstr "لغو پاسخ"
+
+#: ../includes/wp_booster/td_translate.php:67
+msgid "Reply"
+msgstr "پاسخ دادن"
+
+#: ../includes/wp_booster/td_translate.php:68
+msgid "Log in to leave a comment"
+msgstr "برای نوشتن نظر وارد شوید"
+
+#: ../includes/wp_booster/td_translate.php:69
+msgid "NO COMMENTS"
+msgstr "بدون دیدگاه"
+
+#: ../includes/wp_booster/td_translate.php:70
+msgid "1 COMMENT"
+msgstr "یک دیدگاه"
+
+#: ../includes/wp_booster/td_translate.php:71
+msgid "COMMENTS"
+msgstr "دیدگاه ها"
+
+#: ../includes/wp_booster/td_translate.php:72
+msgid "Your comment is awaiting moderation"
+msgstr "نظر شما در انتظار تایید مدیریت است."
+
+#: ../includes/wp_booster/td_translate.php:76
+msgid "REVIEW OVERVIEW"
+msgstr "نقد و بررسی اجمالی"
+
+#: ../includes/wp_booster/td_translate.php:77
+msgid "SUMMARY"
+msgstr "خلاصه"
+
+#: ../includes/wp_booster/td_translate.php:78
+msgid "OVERALL SCORE"
+msgstr "امتیاز کلی"
+
+#: ../includes/wp_booster/td_translate.php:81
+msgid "Ooops... Error 404"
+msgstr "خطای 404، صفحه موردنظر یافت نشد"
+
+#: ../includes/wp_booster/td_translate.php:82
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "با عرض پوزش، صفحه ای که به دنبال آن هستید وجود ندارد."
+
+#: ../includes/wp_booster/td_translate.php:83
+msgid "You can go to the"
+msgstr "شما می‌توانید بروید به"
+
+#: ../includes/wp_booster/td_translate.php:84
+msgid "HOMEPAGE"
+msgstr "صفحه اصلی"
+
+#: ../includes/wp_booster/td_translate.php:87
+msgid "OUR LATEST POSTS"
+msgstr "آخرین مطالب ما"
+
+#: ../includes/wp_booster/td_translate.php:90
+msgid "Posts by"
+msgstr "پست های"
+
+#: ../includes/wp_booster/td_translate.php:91
+msgid "POSTS"
+msgstr "مطالب"
+
+#: ../includes/wp_booster/td_translate.php:94
+msgid "Posts tagged with"
+msgstr "مطالب برچسب زده شده با"
+
+#: ../includes/wp_booster/td_translate.php:95
+msgid "Tag"
+msgstr "برچسب"
+
+#: ../includes/wp_booster/td_translate.php:98
+msgid "Daily Archives:"
+msgstr "آرشیو روزانه:"
+
+#: ../includes/wp_booster/td_translate.php:99
+msgid "Monthly Archives:"
+msgstr "بایگانی ماهانه:"
+
+#: ../includes/wp_booster/td_translate.php:100
+msgid "Yearly Archives:"
+msgstr "آرشیو سالیانه:"
+
+#: ../includes/wp_booster/td_translate.php:101
+msgid "Archives"
+msgstr "بایگانی"
+
+#: ../includes/wp_booster/td_translate.php:105
+msgid "LATEST ARTICLES"
+msgstr "آخرین مطالب"
+
+#: ../includes/wp_booster/td_translate.php:108
+msgid "search results"
+msgstr "نتایج جستجو"
+
+#: ../includes/wp_booster/td_translate.php:109
+msgid "Search"
+msgstr "جستجو\t"
+
+#: ../includes/wp_booster/td_translate.php:110
+msgid "If you're not happy with the results, please do another search"
+msgstr ""
+"اگر نتایج دلخواه شما نیستند، لطفا از کلمات دیگری برای جستجو استفاده کنید"
+
+#: ../includes/wp_booster/td_translate.php:113
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: ../includes/wp_booster/td_translate.php:116
+msgid "Follow us on Instagram"
+msgstr "ما را در اینستاگرام دنبال کنید"
+
+#: ../includes/wp_booster/td_translate.php:119
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "صفحه %CURRENT_PAGE% از %TOTAL_PAGES%"
+
+#: ../includes/wp_booster/td_translate.php:120
+msgid "Next"
+msgstr "بعدي"
+
+#: ../includes/wp_booster/td_translate.php:121
+msgid "Prev"
+msgstr "قبلی"
+
+#: ../includes/wp_booster/td_translate.php:122
+msgid "Back"
+msgstr "بازگشت"
+
+#: ../includes/wp_booster/td_translate.php:125
+msgid "No results for your search"
+msgstr "نتیجه ای برای جستجوی شما یافت نشد"
+
+#: ../includes/wp_booster/td_translate.php:126
+msgid "No posts to display"
+msgstr "مطلبی برای نمایش وجود ندارد"
+
+#: ../includes/wp_booster/td_translate.php:129
+msgid "LOG IN"
+msgstr "ورود"
+
+#: ../includes/wp_booster/td_translate.php:130
+msgid "Sign in / Join"
+msgstr "ورود / عضویت"
+
+#: ../includes/wp_booster/td_translate.php:131
+msgid "Sign in"
+msgstr "ورود"
+
+#: ../includes/wp_booster/td_translate.php:132
+msgid "Sign up"
+msgstr "ثبت نام"
+
+#: ../includes/wp_booster/td_translate.php:133
+msgid "Join"
+msgstr "پیوستن"
+
+#: ../includes/wp_booster/td_translate.php:134
+msgid "Log In"
+msgstr "ورود"
+
+#: ../includes/wp_booster/td_translate.php:135
+msgid "REGISTER"
+msgstr "ثبت نام"
+
+#: ../includes/wp_booster/td_translate.php:136
+msgid "Welcome!"
+msgstr "خوش آمدید!"
+
+#: ../includes/wp_booster/td_translate.php:137
+msgid "Log into your account"
+msgstr "ورود به حساب کاربری"
+
+#: ../includes/wp_booster/td_translate.php:138
+msgid "Password recovery"
+msgstr "بازیابی رمز عبور"
+
+#: ../includes/wp_booster/td_translate.php:139
+msgid "Send My Pass"
+msgstr "ارسال کلمه عبور من"
+
+#: ../includes/wp_booster/td_translate.php:140
+msgid "Forgot your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟\t"
+
+#: ../includes/wp_booster/td_translate.php:141
+msgid "Please wait..."
+msgstr "کمی منتظر بمانید ......"
+
+#: ../includes/wp_booster/td_translate.php:142
+msgid "User or password incorrect!"
+msgstr "نام کاربری یا رمز عبور صحیح نیست!"
+
+#: ../includes/wp_booster/td_translate.php:143
+msgid "Email or username incorrect!"
+msgstr "ایمیل یا نام کاربری صحیح نیست!"
+
+#: ../includes/wp_booster/td_translate.php:144
+msgid "Email incorrect!"
+msgstr "ایمیل صحیح نیست!"
+
+#: ../includes/wp_booster/td_translate.php:145
+msgid "User or email already exists!"
+msgstr "نام کاربری یا ایمیل قبلاً ثبت شده است."
+
+#: ../includes/wp_booster/td_translate.php:146
+msgid ""
+"Please check your email (index or spam folder), the password was sent there."
+msgstr ""
+"کلمه عبور ارسال شد، ایمیل خود را بررسی کنید، ممکن است این ایمیل در پوشه اسپم "
+"باشد."
+
+#: ../includes/wp_booster/td_translate.php:147
+msgid "Email address not found!"
+msgstr "آدرس ایمیل یافت نشد!"
+
+#: ../includes/wp_booster/td_translate.php:148
+msgid "Your password is reset, check your email."
+msgstr "کلمه عبور شما مجدداً تنظیم شد، ایمیل خود را چک کنید."
+
+#: ../includes/wp_booster/td_translate.php:149
+msgid "Welcome! Log into your account"
+msgstr "خوش آمدید! لطفا وارد حساب کاربری خود شوید"
+
+#: ../includes/wp_booster/td_translate.php:150
+msgid "Register for an account"
+msgstr "ثبت‌نام برای یک حساب کاربری"
+
+#: ../includes/wp_booster/td_translate.php:151
+msgid "Recover your password"
+msgstr "بازیابی کلمه عبور"
+
+#: ../includes/wp_booster/td_translate.php:152
+msgid "your username"
+msgstr "نام کاربری شما"
+
+#: ../includes/wp_booster/td_translate.php:153
+msgid "your password"
+msgstr "کلمه عبور شما"
+
+#: ../includes/wp_booster/td_translate.php:154
+msgid "your email"
+msgstr "آدرس ایمیل"
+
+#: ../includes/wp_booster/td_translate.php:155
+msgid "A password will be e-mailed to you."
+msgstr "یک کلمه عبور به ایمیل شما ارسال خواهد شد."
+
+#: ../includes/wp_booster/td_translate.php:156
+msgid "Logout"
+msgstr "خروج\t"
+
+#: ../includes/wp_booster/td_translate.php:159
+msgid "Like"
+msgstr "می پسندم"
+
+#: ../includes/wp_booster/td_translate.php:160
+msgid "Likes"
+msgstr "پسندها"
+
+#: ../includes/wp_booster/td_translate.php:161
+msgid "Fans"
+msgstr "طرفداران"
+
+#: ../includes/wp_booster/td_translate.php:162
+msgid "Follow"
+msgstr "دنبال کردن\t"
+
+#: ../includes/wp_booster/td_translate.php:163
+msgid "Followers"
+msgstr "دنبال کننده ها\t"
+
+#: ../includes/wp_booster/td_translate.php:164
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: ../includes/wp_booster/td_translate.php:165
+msgid "Subscribers"
+msgstr "مشترک ها"
+
+#: ../includes/wp_booster/td_translate.php:168
+msgid "MORE STORIES"
+msgstr "نمایش بیشتر"
+
+#: ../includes/wp_booster/td_translate.php:171
+msgid "Latest"
+msgstr "آخرین"
+
+#: ../includes/wp_booster/td_translate.php:172
+msgid "Featured posts"
+msgstr "نوشته های ویژه"
+
+#: ../includes/wp_booster/td_translate.php:173
+msgid "Most popular"
+msgstr "پرطرفدارترین"
+
+#: ../includes/wp_booster/td_translate.php:174
+msgid "7 days popular"
+msgstr "محبوب‌ترین مطالب هفته"
+
+#: ../includes/wp_booster/td_translate.php:175
+msgid "By review score"
+msgstr "توسط امتیازهای داده شده"
+
+#: ../includes/wp_booster/td_translate.php:176
+msgid "Random"
+msgstr "تصادفی"
+
+#: ../includes/wp_booster/td_translate.php:178
+msgid "Trending Now"
+msgstr "بهترین های حال حاضر"
+
+#: ../includes/wp_booster/td_translate.php:181
+msgid "POPULAR CATEGORY"
+msgstr "محبوب ترین دسته‌بندی"
+
+#: ../includes/wp_booster/td_translate.php:182
+msgid "POPULAR POSTS"
+msgstr "مطالب محبوب"
+
+#: ../includes/wp_booster/td_translate.php:183
+msgid "EDITOR PICKS"
+msgstr "نوشته سردبیر"
+
+#: ../includes/wp_booster/td_translate.php:184
+msgid "ABOUT US"
+msgstr "درباره ما"
+
+#: ../includes/wp_booster/td_translate.php:185
+msgid "FOLLOW US"
+msgstr "ما را دنبال کنید"
+
+#: ../includes/wp_booster/td_translate.php:186
+msgid "EVEN MORE NEWS"
+msgstr "اخبار بیشتر"
+
+#: ../includes/wp_booster/td_translate.php:190
+msgid "Previous (Left arrow key)"
+msgstr "قبلی"
+
+#: ../includes/wp_booster/td_translate.php:191
+msgid "Next (Right arrow key)"
+msgstr "بعدی"
+
+#: ../includes/wp_booster/td_translate.php:192
+msgid "%curr% of %total%"
+msgstr "%curr% از %total%"
+
+#: ../includes/wp_booster/td_translate.php:193
+#, php-format
+msgid "The content from %url% could not be loaded."
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:194
+#, php-format
+msgid "The image #%curr% could not be loaded."
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:197
+msgid "Blog"
+msgstr "بلاگ"
+
+#: ../includes/wp_booster/td_translate.php:198
+msgid "Share on Facebook"
+msgstr "اشتراک گذاری در فیسبوک"
+
+#: ../includes/wp_booster/td_translate.php:199
+msgid "Tweet on Twitter"
+msgstr "توییت در تویتر"
+
+#: ../includes/wp_booster/td_translate.php:201
+msgid "Featured"
+msgstr "ویژه"
+
+#: ../includes/wp_booster/td_translate.php:202
+msgid "All time popular"
+msgstr "محبوب در هر زمان"
+
+#: ../includes/wp_booster/td_translate.php:204
+msgid "More"
+msgstr "بیشتر"
+
+#: ../includes/wp_booster/td_translate.php:205
+msgid "Register"
+msgstr "ثبت نام\t"
+
+#: ../includes/wp_booster/td_translate.php:207
+msgid "of"
+msgstr "از"
+
+#: ../includes/wp_booster/td_translate.php:210
+msgid "Euro Member Countries"
+msgstr "کشور های عضو اروپا"
+
+#: ../includes/wp_booster/td_translate.php:211
+msgid "Australian Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:212
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:213
+msgid "Brazilian Real"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:214
+msgid "Canadian Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:215
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:216
+msgid "Chinese Yuan Renminbi"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:217
+msgid "Czech Republic Koruna"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:218
+msgid "Danish Krone"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:219
+msgid "British Pound"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:220
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:221
+msgid "Croatian Kuna"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:222
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:223
+msgid "Indonesian Rupiah"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:224
+msgid "Israeli Shekel"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:225
+msgid "Indian Rupee"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:226
+msgid "Japanese Yen"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:227
+msgid "Korean (South) Won"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:228
+msgid "Mexican Peso"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:229
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:230
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:231
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:232
+msgid "Philippine Peso"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:233
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:234
+msgid "Romanian (New) Leu"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:235
+msgid "Russian Ruble"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:236
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:237
+msgid "Singapore Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:238
+msgid "Thai Baht"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:239
+msgid "Turkish Lira"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:240
+msgid "United States Dollar"
+msgstr ""
+
+#: ../includes/wp_booster/td_translate.php:241
+msgid "South African Rand"
+msgstr ""
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2237
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2238
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2239
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه  %s"
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2240
+msgid "Something went wrong with the plugin API."
+msgstr "چیزی اشتباه با API پلاگین رفت."
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2251
+msgid "Return to tagDiv plugins panel"
+msgstr "بازگشت به صفحه افزونه های ضروری"
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2252
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: ../includes/wp_booster/td_wp_booster_functions.php:2253
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "تمام افزونه‌ها با موفقیت نصب و فعال شده اند. %s"
+
+msgid "Video"
+msgstr "ویدئو"
