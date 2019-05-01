@@ -228,3 +228,49 @@
 	margin-left: 5px;
 	margin-right: inherit;
 }
+.td-main-menu-logo {
+  float: right;
+  margin-left: 10px;
+  margin-right: inherit;
+}
+.sf-menu li {
+  float: right;
+}
+header .td-post-date {
+  margin-right: 4px;
+  margin-left: inherit;
+  float: right;
+}
+header .td-post-comments {
+  float: left;
+}
+header .td-post-views {
+  float: left;
+  margin-left: 22px;
+  margin-right: inherit;
+}
+header .td-post-author-name {
+  float: right;
+}
+.td-post-template-default .td-post-title .td-post-comments {
+  margin-right: 22px;
+  margin-left: inherit;
+}
+.td-post-template-default .td-post-title div.td-post-views {
+  margin-left: 0;
+  margin-right: inherit;
+}
+header .td-icon-views {
+  margin-right: 0;
+  margin-left: 5px;
+}
+header .td-icon-comments {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.td-category li {
+  margin: 0 0 5px 5px;
+}
+.td-post-sharing {
+  text-align: right;
+}
