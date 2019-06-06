@@ -29,3 +29,11 @@ function TD_child_theme_locale() {
   load_child_theme_textdomain( 'newspaper', get_stylesheet_directory() . '/translation' );
 }
 add_action( 'after_setup_theme', 'TD_child_theme_locale' );
+
+if ( is_user_logged_in() && current_user_can( 'administrator' ) ) {
+  // show admin bar
+  add_filter('show_admin_bar', '__return_true');
+}else{
+  // hide admin bar
+  add_filter('show_admin_bar', '__return_false');
+}
