@@ -1,6 +1,6 @@
 <?php
 /*  ----------------------------------------------------------------------------
-    Newspaper V9.0+ Child theme - Please do not use this child theme with older versions of Newspaper Theme
+    Newspaper V9.7+ Child theme - Please do not use this child theme with older versions of Newspaper Theme
 
     What can be overwritten via the child theme:
      - everything from /parts folder
@@ -19,7 +19,7 @@
 /*  ----------------------------------------------------------------------------
     add the parent style + style.css from this folder
  */
-add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles', 1001);
+add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles', 11);
 function theme_enqueue_styles() {
     wp_enqueue_style('td-theme', get_template_directory_uri() . '/style.css', '', TD_THEME_VERSION, 'all' );
     wp_enqueue_style('td-theme-child', get_stylesheet_directory_uri() . '/style.css', array('td-theme'), TD_THEME_VERSION . 'c', 'all' );
