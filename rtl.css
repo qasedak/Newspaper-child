@@ -319,3 +319,44 @@ header .td-icon-comments {
 	right: inherit;
     left: 5px;
 }
+.td-grid-style-3 .td-big-thumb .td-big-grid-meta {
+    margin: 20px 20px 20px 0;
+}
+.td-front-end-display-block {
+    left: 0;
+    right: inherit;
+}
+.td-more-articles-box {
+    border-width: 1px 1px 1px 0;
+}
+.td-close-more-articles-box {
+    right: 14px;
+    left: unset;
+}
+.td-icon-star-half {
+    transform: scaleX(-1);
+}
+.post_td_gallery {
+    direction: ltr;
+}
+.td-gallery-title {
+    direction: rtl;
+}
+.td-gallery-controls-wrapper {
+    direction: rtl;
+}
+.td-gallery-controls-wrapper {
+    left: 0;
+    right: inherit;
+}
+.td-post-small-box span {
+    float: right;
+}
+.td-post-small-box a {
+    margin-right: 4px;
+    margin-left: inherit;
+}
+.td-tags span, .td-tags a {
+    margin-right: 0;
+    margin-left: 4px;
+}
