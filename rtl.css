@@ -3,6 +3,211 @@
    m_anbarestany@hotmail.com
 */
 
+/* Persian Fonts =========START======== */
+@font-face {
+    font-family: "IranSans";
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/iransans/IRANSansWeb_Bold.eot?#iefix") format("embedded-opentype"), url("fonts/iransans/IRANSansWeb_Bold.woff2") format("woff2"), url("fonts/iransans/IRANSansWeb_Bold.woff") format("woff"), url("fonts/iransans/IRANSansWeb_Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "IranSans";
+    font-style: normal;
+    src: url("fonts/iransans/IRANSansWeb_Light.eot?#iefix") format("embedded-opentype"), url("fonts/iransans/IRANSansWeb_Light.woff2") format("woff2"), url("fonts/iransans/IRANSansWeb_Light.woff") format("woff"), url("fonts/iransans/IRANSansWeb_Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/opensans/OpenSans-Bold.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("fonts/opensans/OpenSans-Bold.woff2?v=1.1.0") format("woff2"), url("fonts/opensans/OpenSans-Bold.woff?v=1.1.0") format("woff"), url("fonts/opensans/OpenSans-Bold.ttf?v=1.1.0") format("truetype"), url("fonts/opensans/OpenSans-Bold.svg?v=1.1.0#Bold") format("svg");
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 300;
+    src: url("fonts/opensans/OpenSans-Light.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("fonts/opensans/OpenSans-Light.woff2?v=1.1.0") format("woff2"), url("fonts/opensans/OpenSans-Light.woff?v=1.1.0") format("woff"), url("fonts/opensans/OpenSans-Light.ttf?v=1.1.0") format("truetype"), url("fonts/opensans/OpenSans-Light.svg?v=1.1.0#Light") format("svg");
+}
+
+html {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-header-row {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-logo-text-container .td-logo-text {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-logo-text-container .td-tagline-text {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-search-wrap-mob {
+    font-family: -apple-system, "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  #td-mobile-nav {
+    font-family: -apple-system, "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  body {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  cite {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-caption-text,
+.wp-caption-dd {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.widget_rss li .rsswidget {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .widget_rss .rss-date,
+.widget_rss cite {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-sub-footer-container {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.page-nav {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .widget_recent_entries li {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .widget_recent_entries .post-date {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .post_td_gallery {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .widget {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-button:not(.is-style-outline) .wp-block-button__link {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-doubleSlider-1 .td-slide-item .td-slide-caption span {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-latest-posts:not(.is-grid) .wp-block-latest-posts__post-date {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-latest-posts:not(.is-grid) li {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-latest-comments .wp-block-latest-comments__comment .wp-block-latest-comments__comment-date {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-gallery .blocks-gallery-image figcaption,
+.wp-block-gallery .blocks-gallery-item figcaption {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.wp-block-archives {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .wp-block-image figcaption {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-author-name {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .comment cite {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-post-next-prev-content {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-tags {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-post-source-via {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-category {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-post-sub-title {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .entry-crumbs {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.td-404-sub-title {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.td-excerpt {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-404-title {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-author-counters {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .block-title {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-post-category {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-read-more,
+  .more-link-wrap {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.td-module-meta-info {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-module-comments {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.td_btn {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.dropcap {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+.wp-block-pullquote blockquote p,
+.td_pull_quote p {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+  input[type=submit] {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .tagdiv-type .td_quote_box p {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .tagdiv-type blockquote p {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  }
+  .td-subcat-filter .td-subcat-list a {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-subcat-filter .td-subcat-dropdown a {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-big-grid-post .td-post-category {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-subcat-filter .td-subcat-dropdown span {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td_block_social_counter {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-trending-now-title {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.td-category-header .td-pulldown-filter-display-option {
+    font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+/* Persian Fonts ===========END======== */
+
 .top-bar-style-1 .td-header-sp-top-widget {
 	float: left !important;
 }
@@ -89,9 +294,6 @@
 .td-trending-now-wrapper .td-next-prev-wrap {
 	left: 42px;
 	right: inherit;
-}
-.td-next-prev-wrap a {
-	margin-right: 7px;
 }
 .td-trending-now-post{
 	padding-right: 15px;
@@ -397,4 +599,15 @@ header .td-icon-comments {
 .td_block_big_grid_3 .td-big-grid-post-3 {
     margin-right: 3px;
     margin-left: 0;
+}
+.td-next-prev-wrap a {
+    margin-left: 7px;
+    margin-right: 0;
+}
+.td-search-form-widget .wpb_button {
+    right: inherit;
+    left: 0;
+} /* search */
+#buddypress ul.item-list li div.item-desc {
+    margin: 10px 0 0 60px;
 }
