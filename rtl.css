@@ -656,3 +656,6 @@ header .td-icon-comments {
     right: 10px;
     left: inherit;
 }
+.td-search-wrap-mob .td_module_wrap {
+    text-align: right;
+}
