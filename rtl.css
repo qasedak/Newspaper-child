@@ -633,3 +633,26 @@ header .td-icon-comments {
 #buddypress ul.item-list li div.item-desc {
     margin: 10px 0 0 60px;
 }
+/* menu - mobile */
+.td-menu-background {
+    transform: translate3d(100%, 0, 0);
+    -webkit-transform: translate3d(100%, 0, 0);
+    -moz-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    -o-transform: translate3d(100%, 0, 0);
+}
+#td-mobile-nav .td-menu-socials {
+    padding: 0 20px 0 65px;
+}
+.td-mobile-close {
+    right: inherit;
+    left: 1px;
+}
+#td-mobile-nav .td-guest-wrap .td-menu-avatar {
+    margin-right: 0;
+    margin-left: 15px;
+}
+#td-mobile-nav label {
+    right: 10px;
+    left: inherit;
+}
