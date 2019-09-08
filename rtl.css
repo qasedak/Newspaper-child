@@ -215,6 +215,12 @@ input[type=submit] {
 .td-related-title {
   font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
 }
+.white-popup-block {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.wpb_button, .vc_btn {
+  font-family: "Open Sans","IranSans","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
 /* Persian Fonts ===========END======== */
 
 .top-bar-style-1 .td-header-sp-top-widget {
@@ -674,4 +680,8 @@ right: inherit;
   padding-right: 110px;
   padding-left: 0;
 }
+}
+.mfp-content .td-login-inputs label {
+  right: 0;
+  left: inherit;
 }
