@@ -299,6 +299,18 @@ html {
 	padding-right: 15px;
 	padding-left: 119px;
 }
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-trending-now-post {
+    padding-right: 15px;
+    padding-left: 107px;
+  }
+}
+@media (max-width: 767px) {
+  .td-trending-now-post {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
 .td-grid-style-1 .td-medium-thumb .td-big-grid-meta {
     margin: 20px 19px 14px 0;
 }
@@ -378,6 +390,16 @@ html {
 .td_module_10 .item-details {
 	margin-right: 244px;
 	margin-left: inherit;
+}
+@media (max-width: 767px) {
+  .td_module_10 .item-details {
+    margin-right: 170px;
+  }
+}
+@media (max-width: 500px) {
+  .td_module_10 .item-details {
+    margin-right: 115px;
+  }
 }
 .td_ajax_load_more i {
 	margin-right: 6px;
