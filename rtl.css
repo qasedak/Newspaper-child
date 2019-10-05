@@ -535,10 +535,6 @@ left: inherit;
 .td-related-row [class*="td-related-span"] {
   float: right;
 }
-.td-related-row .td-related-span4 {
-  padding-right: 0;
-  padding-left: 21px;
-}
 .td-tags li {
   float: right;
 }
