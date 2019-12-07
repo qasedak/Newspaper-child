@@ -307,8 +307,8 @@ right: -15px;
 left: inherit;
 }
 .td-trending-now-wrapper .td-next-prev-wrap {
-left: 42px;
-right: inherit;
+  margin: 0 auto 0 0;
+  z-index: 1;
 }
 .td-trending-now-post{
 padding-right: 15px;
