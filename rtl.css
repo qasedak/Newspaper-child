@@ -681,3 +681,23 @@ right: inherit;
   right: 0;
   left: inherit;
 }
+body .td-stretch-height {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+body .td-stretch-height {
+  width: 100%;
+  object-fit: cover;
+}
+#buddypress #item-header-cover-image #item-header-avatar {
+  float: right;
+}
+#buddypress div#item-header #item-header-cover-image #item-header-content {
+  margin-right: 170px;
+  margin-left: 0;
+}
+#bbpress-forums #bbp-search-form .button {
+  left: 0;
+  right: inherit;
+}
