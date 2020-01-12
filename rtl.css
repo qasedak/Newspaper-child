@@ -709,3 +709,8 @@ body .td-stretch-height {
   max-height: inherit;
   max-width: inherit;
 }
+.td-weather-top-widget {
+  margin-left: 32px;
+  direction: ltr;
+  margin-right: inherit;
+}
