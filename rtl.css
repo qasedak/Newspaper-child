@@ -701,3 +701,11 @@ body .td-stretch-height {
   left: 0;
   right: inherit;
 }
+#buddypress #activity-stream .activity-avatar img.avatar-150 {
+  max-width: 150px;
+  width: inherit;
+}
+#bbpress-forums .widget_display_replies img.avatar, #bbpress-forums .widget_display_topics img.avatar, #bbpress-forums div.bbp-template-notice img.avatar, #bbpress-forums p.bbp-topic-meta img.avatar, #bbpress-forums ul.bbp-reply-revision-log img.avatar, #bbpress-forums ul.bbp-topic-revision-log img.avatar {
+  max-height: inherit;
+  max-width: inherit;
+}
