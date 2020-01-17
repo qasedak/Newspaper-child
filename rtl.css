@@ -714,3 +714,15 @@ body .td-stretch-height {
   direction: ltr;
   margin-right: inherit;
 }
+.td-post-template-4 .td-post-title {
+  padding: 21px 0px 0 21px;
+}
+.comment .avatar {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+.comment .children {
+  margin-right: 70px;
+  margin-left:0;
+}
