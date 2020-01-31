@@ -726,3 +726,6 @@ body .td-stretch-height {
   margin-right: 70px;
   margin-left:0;
 }
+.syntaxhighlighter {
+  direction: ltr;
+}
