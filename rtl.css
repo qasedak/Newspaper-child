@@ -729,3 +729,6 @@ body .td-stretch-height {
 .syntaxhighlighter {
   direction: ltr;
 }
+.td_block_15 .td-column-1 .td-block-span12:nth-of-type(odd) {
+  clear: right;
+}
