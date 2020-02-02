@@ -732,6 +732,9 @@ body .td-stretch-height {
 .td_block_15 .td-column-1 .td-block-span12:nth-of-type(odd) {
   clear: right;
 }
+.td_block_15 .td-column-1 .td-block-span12 {
+  float: right;
+}
 #buddypress div#item-header div#item-actions {
   float: right;
   text-align: right;
