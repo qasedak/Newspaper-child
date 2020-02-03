@@ -761,3 +761,6 @@ div#item-actions {
 .td-smart-list-dropdown-wrap .td-smart-list-dropdown {
     padding: 0 10px 0 35px;
 }
+pre {
+  direction: ltr !important;
+}
