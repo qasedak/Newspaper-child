@@ -751,3 +751,13 @@ div#item-actions {
 .td-gallery-slide-top {
     direction: rtl;
 }
+.td_smart_list_8 .td-number-and-title {
+    text-align: right;
+}
+.td-smart-list-dropdown-wrap .td-smart-list-container::before {
+    left: 16px;
+    right: inherit;
+}
+.td-smart-list-dropdown-wrap .td-smart-list-dropdown {
+    padding: 0 10px 0 35px;
+}
