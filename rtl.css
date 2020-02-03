@@ -745,3 +745,6 @@ div#item-actions {
 #buddypress div#item-header #item-header-cover-image #item-header-content {
   margin-right: 160px;
 }
+.td-review-percent {
+    float: left;
+}
