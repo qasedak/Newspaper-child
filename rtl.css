@@ -693,10 +693,6 @@ body .td-stretch-height {
 #buddypress #item-header-cover-image #item-header-avatar {
     float: right;
 }
-#buddypress div#item-header #item-header-cover-image #item-header-content {
-    margin-right: 170px;
-    margin-left: 0;
-}
 #bbpress-forums #bbp-search-form .button {
     left: 0;
     right: inherit;
@@ -742,9 +738,6 @@ body .td-stretch-height {
 div#item-actions {
     margin-top: 204px !important;
 }
-#buddypress div#item-header #item-header-cover-image #item-header-content {
-    margin-right: 160px;
-}
 .td-review-percent {
     float: left;
 }
@@ -763,4 +756,14 @@ div#item-actions {
 }
 pre {
   direction: ltr !important;
+}
+#buddypress div#item-header #item-header-cover-image #item-header-content {
+  margin-right: 170px;
+  margin-left:0;
+  float: right;
+}
+body.groups #buddypress div#item-header #item-header-cover-image #item-header-content {
+  margin-left: 170px;
+  margin-right:0;
+  float: left;
 }
