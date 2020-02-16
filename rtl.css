@@ -767,3 +767,13 @@ body.groups #buddypress div#item-header #item-header-cover-image #item-header-co
   margin-right:0;
   float: left;
 }
+#bbpress-forums li.bbp-body li.bbp-topic-title .bbp-topic-permalink {
+  margin: 0 50px 4px 0;
+}
+#bbpress-forums li.bbp-body li.bbp-topic-title .bbp-topic-meta {
+  margin: 0 50px 0 0;
+}
+#bbpress-forums .bbp-topic-started-by img, #bbpress-forums .bbp-topic-started-in img {
+  right: 0;
+  left:inherit;
+}
