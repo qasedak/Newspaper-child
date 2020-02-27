@@ -791,3 +791,14 @@ body.groups #buddypress div#item-header #item-header-cover-image #item-header-co
     right: 50% !important;
     transform: translateX(50%) !important;
 }
+.td-dentist .tdm-header-style-3 .td-header-top-menu-full .tdc-font-tdmp {
+  margin-left: 5px;
+  margin-right:0;
+}
+.tdm-testimonial-image{
+  margin-left:15px;   
+}
+.td-dentist .tdm_block_testimonial .tds-testimonial3 .tdm-testimonial-info::before {
+  right: 23px;
+  left:inherit !important;
+}
