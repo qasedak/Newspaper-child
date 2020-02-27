@@ -777,3 +777,17 @@ body.groups #buddypress div#item-header #item-header-cover-image #item-header-co
   right: 0;
   left:inherit;
 }
+.tdm-header .header-search-wrap {
+    float: left;
+    margin-left:0;
+    margin-right: 15px;
+}
+.tdm-header-style-3 .sf-menu {
+    float: left;
+}
+.tdc-row[class*="stretch_row"] > .td-pb-row > .td-element-style, .tdc-row-composer[class*="stretch_row"] > .td-pb-row > .td-element-style {
+    width: 100vw !important;
+    left:inherit !important;
+    right: 50% !important;
+    transform: translateX(50%) !important;
+}
